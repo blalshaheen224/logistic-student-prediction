@@ -52,9 +52,8 @@ This project uses **Logistic Regression** to predict whether a student is likely
 The script allows user input to test the model:
 
 ```bash
-أدخل مجموع الطالب: 210
-أدخل النسبة المئوية: 51.22
-النتيجة: ناجح
+أدخل مجموع الطالب: 300
+أدخل النسبة المئوية: 60
 ```
 
 ---
@@ -62,8 +61,6 @@ The script allows user input to test the model:
 ## 📈 Example Output
 
 ```
-أدخل مجموع الطالب: 300
-أدخل النسبة المئوية: 60
 النتيجة: ناجح
 
 ---
