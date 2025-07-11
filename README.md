@@ -62,9 +62,10 @@ The script allows user input to test the model:
 
 ```
 النتيجة: ناجح
+---
 
 ## 🚀 Requirements
----
+
 
 * Python 3.7+
 * scikit-learn
