@@ -62,7 +62,7 @@ The script allows user input to test the model:
 
 ```
 النتيجة: ناجح
----
+```
 
 ## 🚀 Requirements
 
